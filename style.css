@@ -94,6 +94,20 @@ nav ul li a:hover {
     text-align: left;
     max-width: 900px;
     margin: auto;
+    background-color: #624234;
+    position: relative;
+}
+ 
+.menu-container h2 {
+  font-family: "Moon Dance", serif;
+  font-weight: 400;
+  font-style: normal;
+  text-align: center;
+}
+
+.menu-container .starter-option { 
+    border: 2px solid #ffcc00;
+
 }
 
 .menu-container ul {
@@ -113,6 +127,7 @@ nav ul li a:hover {
     color: #333;
     font-size: 22px;
     margin-bottom: 5px;
+    text-align: center;
 }
 
 .menu-container p {
@@ -126,18 +141,21 @@ nav ul li a:hover {
     max-width: 900px;
     margin: auto;
     text-align: left;
+    background-color: antiquewhite;
 }
 
 .about h2 {
     color: #333;
     font-size: 26px;
     margin-bottom: 10px;
+    text-align: center;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
 }
 
 .about p {
     color: #555;
     font-size: 18px;
-    line-height: 1.6;
+    line-height: 1.5;
     margin-bottom: 20px;
 }
 
